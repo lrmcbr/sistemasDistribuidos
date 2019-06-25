@@ -10,8 +10,9 @@ package br.ufsc.sistemasdistribuidos;
  * @author luisr
  */
 public class main {
-    public static void main(String[] args){
+
+    public static void main(String[] args) {
         System.out.println("Trabalho de Sistemas Distribuidos");
     }
-    
+
 }
